@@ -1,2 +1,5 @@
-# phishing-websites-model-optimization-and-testing
-An assignment for my machine learning course in university. The goal of this assignment is to optimize models on a dataset, then test the model on a completely unrelated (new domain, new feature set, new  bias/variance values) new dataset 
+# Two models were optimized on the phishing websites dataset, and then tested on another dataset to compare their accuracies, and other metrics.
+
+Dataset for optimization (phishing websites): https://www.openml.org/search?type=data&sort=runs&status=active&id=4534
+
+Dataset for testing (click prediction): https://www.openml.org/search?type=data&sort=runs&status=active&id=1220
